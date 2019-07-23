@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  GHRepoBrowser
+
+  Created by Andrzej Puczyk on 17/07/2019.
+  Copyright © 2019 Andrzej Puczyk. All rights reserved.
+*/
+
+"ReposListView" = "GitHub Browser";
+"Repos Search Bar Placeholder" = "Search for Repositories";
+"repos" = "Repositories";
+"followers" = "Followers";
+"following" = "Following";
+"created at" = "Created at";
+"updated at" = "Latest update";
+"license" = "License";
+"unknown" = "unknown";
+"language" = "Written in";
+"unknown language" = "Unknown language";
+"homepage" = "Homepage";
+"readme" = "Readme";
+"empty view" = "There is no results of search you have done.";
